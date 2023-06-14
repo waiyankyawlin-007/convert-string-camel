@@ -1,0 +1,26 @@
+{
+  "name": "convert-string-camel",
+  "version": "1.0.0",
+  "description": "converts dash/underscore delimited words into camel case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waiyankyawlin-007/convert-string-camel.git"
+  },
+  "keywords": [
+    "convert",
+    "string",
+    "camel-case",
+    "dash",
+    "underscore"
+  ],
+  "author": "Wai Yan Kyaw Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waiyankyawlin-007/convert-string-camel/issues"
+  },
+  "homepage": "https://github.com/waiyankyawlin-007/convert-string-camel#readme"
+}
