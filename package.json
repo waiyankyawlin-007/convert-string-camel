@@ -1,6 +1,6 @@
 {
   "name": "convert-string-camel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "converts dash/underscore delimited words into camel case",
   "main": "index.js",
   "scripts": {

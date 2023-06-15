@@ -1,6 +1,4 @@
-# nric
-
-[![](https://img.shields.io/npm/v/nric.svg?style=flat)](https://github.com/waiyankyawlin-007/convert-string-camel)
+# convert-string-camel
 
 Convert a dash,dot,underscore separated string to camelCase
 
